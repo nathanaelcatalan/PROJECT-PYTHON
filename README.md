@@ -1,5 +1,5 @@
 # PROJECT-PYTHON
-This is my activity hahaha
+This is my activity
 **************************************
 List of Programs:
 **************************************
